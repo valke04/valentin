@@ -25,6 +25,7 @@ body {
     box-shadow: 0 10px 20px black;
     background-size: cover;
     font-family: 'Geist', sans-serif;
+    font-weight: thin;
     background-image: url("");
 }
 
@@ -46,6 +47,7 @@ body {
 h2 {
     font-size: xx-large;
     letter-spacing: 1px;
+    font-weight: 600;
 }
 
 .details {
