@@ -54,22 +54,22 @@ body {
 }
 
 .content {
-    bottom: 0;
+    bottom: 10px;
     position: absolute;
-    margin-bottom: 20px;
-    padding: 20px;
+    margin-bottom: 15px;
+    padding: 40px;
 }
 
 h2 {
     font-size: xx-large;
     font-family: 'Figtree', sans-serif;
-    letter-spacing: 0,5px;
-    font-weight: 500;
+    letter-spacing: 1px;
+    font-weight: 600;
 }
 
 .details {
     font-style: italic;
-    color: #FFCCCC;
+    color: #EBC1DD;
     font-family: 'Figtree', sans-serif;
     font-weight: 300;
     font-size: 14px;
@@ -77,16 +77,17 @@ h2 {
 
 .icons {
     display: flex;
-    flex-direction: column;
-    top: -30px;
-    position: absolute;
+    flex-direction: row;
+    top: -50px;
     left: 85%;
 }
 
 .icons i {
-    font-size: 0px;
-    margin-bottom: 20px;
-    color: rgb(250, 250, 250);
+    font-size: 24px;
+    padding: 20px;
+    padding-left: 2px;
+    padding-top: 24px;
+    color: #EBC1DD;
     transition: 0.3s;
 }
 
