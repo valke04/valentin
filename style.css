@@ -39,6 +39,7 @@ body {
     background-size: cover;
     font-family: 'Figtree', sans-serif;
     font-weight: 300;
+    padding-bottom:10px;
     background-image: url("");
 }
 
@@ -58,6 +59,7 @@ body {
     position: absolute;
     margin-bottom: 15px;
     padding: 40px;
+    padding-bottom:15px;
 }
 
 h2 {
