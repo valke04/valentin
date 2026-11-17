@@ -34,7 +34,7 @@ body {
 
 .container {
     height: 500px;
-    width: 320px;
+    width: 360px;
     border-radius: 24px;
     background-size: cover;
     font-family: 'Figtree', sans-serif;
@@ -67,12 +67,12 @@ h2 {
     font-size: xx-large;
     font-family: 'Figtree', sans-serif;
     letter-spacing: 1px;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .details {
-    font-style: italic;
-    color: #EBC1DD;
+    font-style: thin;
+    color: #eccfe2;
     font-family: 'Figtree', sans-serif;
     font-weight: 300;
     font-size: 14px;
