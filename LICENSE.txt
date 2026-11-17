@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2026 Valentin (https://codepen.io/valke04/pen/VYpoVgO)
+Copyright (c) 2026 Valentin (https://codepen.io/valke04/pen/gbmVZKW)
 Fork of an original work Profile Card (https://codepen.io/muhammadfarhan999/pen/GRoxgeO)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
